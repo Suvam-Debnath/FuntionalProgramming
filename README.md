@@ -1,2 +1,2 @@
 # FuntionalProgramming
-programs related to functional programming (udemy)
+programs related to functional programming
